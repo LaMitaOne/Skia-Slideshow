@@ -51,4 +51,15 @@ As this is an Alpha release, there are a few things to keep in mind:
 This is a work in progress. If you have ideas for new transition effects or want to help optimize the rendering pipeline, feel free to fork the repo and submit a pull request!
 📜 License
 
-MIT License. Feel free to use this in your commercial and personal projects.
+MIT License. Feel free to use this in your commercial and personal projects.   
+
+     
+   
+If you want to tip me a coffee.. :)   
+    
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=RX5KTTMXW497Q">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal"/>
+  </a>
+</p>
+        
