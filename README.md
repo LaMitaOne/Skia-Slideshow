@@ -6,9 +6,9 @@ Skia-Slideshow v0.1 alpha
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-Slideshow)    
 
 Sample video: https://www.youtube.com/watch?v=P4ZQVMQxk3M         
+    
+<img width="360" height="202" alt="axpb44" src="https://github.com/user-attachments/assets/2f8b4834-1dd3-4e92-b1b5-e237e538c8ac" />
        
- <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/90f98368-adaf-4068-8736-f34810fbe69d" />
-
 Inspired by the classic VCL TPicShow component, this project aims to bring smooth, modern, and cross-platform slideshow transitions to FMX using Skia's powerful 2D graphics engine.
 
     Status: Alpha (v0.1)This is an early preview release. While the core functionality works and the effects look great, the engine and rendering pipeline are still subject to optimization. Expect some performance hiccups during window resizing or on very large images.
