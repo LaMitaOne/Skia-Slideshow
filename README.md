@@ -33,19 +33,12 @@ Inspired by the classic VCL TPicShow component, this project aims to bring smoot
 🚀 Getting Started
 Prerequisites
 
-    Delphi 10.4 Sydney or newer (should work on older FMX versions, but untested).
+    Delphi 10.4 Sydney or newer.
     Skia4Delphi must be installed and configured in your IDE.
 
-Installation & Usage
-
-    Clone this repository or download the source files.
-    Add uSkiaSlideshowEngine.pas and uSkiaSlideshowEffects.pas to your project.
-    Drop a TSkPaintBox or create the TSkiaSlideshow component dynamically at runtime.
-
-Quick Start Example:
-
-zipped sample and project included
-
+Quick Start Example:    
+   zipped sample and project included    
+     
 ⚠️ Known Issues & Roadmap
 
 As this is an Alpha release, there are a few things to keep in mind:
