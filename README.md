@@ -15,10 +15,10 @@ Inspired by the classic VCL TPicShow component, this project aims to bring smoot
 
 ✨ Features
 
-    Hardware Acceleration: Rendered entirely via Skia for smooth, GPU-accelerated transitions.
-    Modular Effect Architecture: Effects are decoupled from the core engine using Interfaces (ISlideTransitionEffect), making it easy to add your own custom transitions.
+    Hardware Acceleration: Rendered entirely via Skia for smooth, GPU-accelerated transitions.     
+    Modular Effect Architecture: Effects are decoupled from the core engine using Interfaces (ISlideTransitionEffect), making it easy to add your own custom transitions.     
     Text Rendering: Native Skia text rendering for Titles, Captions, and debug information.
-    Flexible Image Loading: Load images directly from files (JPG, PNG, etc.) or pass ISkImage objects directly.
+    Flexible Image Loading: Load images directly from files (JPG, PNG, etc.) or pass ISkImage objects directly.     
 
 🎬 Included Transitions (9 Effects)
 
