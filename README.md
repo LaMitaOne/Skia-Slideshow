@@ -3,6 +3,8 @@ A high-performance, hardware-accelerated slideshow component for Delphi FMX, uti
     
 Skia-Slideshow v0.1 alpha   
    
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-Slideshow)    
+       
  <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/90f98368-adaf-4068-8736-f34810fbe69d" />
 
 Inspired by the classic VCL TPicShow component, this project aims to bring smooth, modern, and cross-platform slideshow transitions to FMX using Skia's powerful 2D graphics engine.
