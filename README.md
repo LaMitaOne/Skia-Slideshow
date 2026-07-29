@@ -4,6 +4,8 @@ A high-performance, hardware-accelerated slideshow component for Delphi FMX, uti
 Skia-Slideshow v0.1 alpha   
    
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LaMitaOne/Skia-Slideshow)    
+
+Sample video: https://www.youtube.com/watch?v=P4ZQVMQxk3M         
        
  <img width="1920" height="1080" alt="Unbenannt" src="https://github.com/user-attachments/assets/90f98368-adaf-4068-8736-f34810fbe69d" />
 
